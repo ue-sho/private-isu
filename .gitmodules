@@ -1,0 +1,3 @@
+[submodule "webapp/python"]
+	path = webapp/python
+	url = git@github.com:ue-sho/pixiv-isucon2016-python.git
